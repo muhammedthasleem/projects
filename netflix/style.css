@@ -1,0 +1,448 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+   }
+#firstPage{
+  height: 90vh;
+  width: 100%;
+    
+ 
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(https://assets.nflxext.com/ffe/siteui/vlv3/5523db5a-e2b2-497f-a88b-61f175c3dbad/eb90437e-a876-47c3-a138-ca27772a4d2a/IN-en-20230306-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+}
+
+/*
+#firstPage>article>div{
+  height: 15vh;
+  width: 100vw;
+  background-color: black;
+  align-items: center;
+  display: flex;
+}
+
+#firstPage>article>.nav>.top{
+    height: 50px;
+       width: 100vh;
+       display: flex;
+       align-items: center;
+       margin-left: 15px;
+       margin-top: 20px;
+  }
+  #firstPage>article>.top>svg{
+      width: 100%;
+      fill: rgb(229, 27, 27);
+  }
+*/
+
+.kkk{
+  height: 50%;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+       align-items: center;
+       
+       
+       
+       /* background-color: rgb(0, 0, 0); */
+  /* background-color: blue; */
+}
+        
+/* .nav  {
+ height: 50px;
+ width: 100vw;
+  
+  display: flex;
+  justify-content: center;
+       align-items: center;
+       
+       background-color: rgb(0, 0, 0);
+       
+} */
+.nav>div>svg{
+ fill: red;
+  width: 40%;
+  padding-left: 100px;
+
+}
+
+.nav>div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  height: 15vh;
+  width: 50%;
+  background-color: rgb(45, 213, 29);
+  
+ 
+ 
+}
+.ab{
+ display: flex;
+  background-color: green;
+  justify-content: center;
+  align-items: center;
+  
+}
+.ab> div {
+  background-color: red;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  height: 5vh;
+  width: 50%;
+  
+}
+.b{
+
+  margin-bottom: 100px;
+  
+ color: aliceblue;
+  
+ margin-left: 350px;
+  height: 20vh;
+  width: 55%;
+  
+  display: block;
+  font-weight: bolder;
+ 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+.b>h1{
+  font-size: 43px;
+  padding-bottom: 10px;
+}
+.b>h4{
+  font-size: 25px;
+  padding-bottom: 20px;
+  
+}
+.b>h5{
+font-size: 20px;
+}
+
+
+  #secondPage{
+    height: 60vh;
+    width: 100%;
+      
+    display: flex;
+    background-color:rgb(0, 0, 0);
+    border-top: 7px solid rgba(255, 255, 255, 0.384);
+
+
+  }
+    .tv{
+      display: flex;
+      
+      
+           height: 50vh;
+           width: 100%;
+           
+           
+           
+    }
+    .tv>div>img{
+     
+      display: block;
+      margin-left: 100px;
+      margin-right: auto;
+      width: 80%;
+      
+    }
+    
+    .tv > div {
+      
+      margin: auto;
+      
+      font-size: 30px;
+      height: 50vh;
+      width: 50%;
+     color: aliceblue;
+      text-align: right;
+      
+  
+     
+    }
+    .textt{
+      padding-top: 100px;
+      
+    }
+    .tv>h1{
+      font-weight: bolder;
+      font-size: larger;
+      line-height: 10px;
+      
+     
+           
+    }
+    .tv>h4{
+      font-size: 25px;
+      font-family: 'Times New Roman', Times, serif;
+    
+    }
+  
+      
+  #thirdPage{
+    height: 60vh;
+    width: 100%;
+      
+    display: flex;
+    background-color:rgb(0, 0, 0);
+border-top: 5px solid rgba(255, 255, 255, 0.445);
+
+  }
+
+
+  .down{
+    display: flex;
+    
+    
+         height: 50vh;
+         width: 100%;
+         
+         
+         
+  }
+  .down>div>img{
+   
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    width: 80%;
+    
+  }
+  
+  .down> div {
+    
+    margin: auto;
+    
+    font-size: 30px;
+    height: 50vh;
+    width: 50%;
+   color: aliceblue;
+    text-align: left;
+    
+
+   
+  }
+  .text{
+    padding-top: 100px;
+    
+  }
+  .down>h1{
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 10px;
+    
+   
+         
+  }
+  .down>h4{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+      
+
+
+      
+
+  #fourthPage{
+    height: 60vh;
+    width: 100%;
+      
+    display: flex;
+    background-color:rgb(0, 0, 0);
+border-top: 5px solid rgba(255, 255, 255, 0.445);
+
+  }
+  .vid{
+    display: flex;
+    
+    
+         height: 50vh;
+         width: 100%;
+         
+         
+         
+  }
+  .vid>div>img{
+   
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    width: 80%;
+    
+  }
+  
+  .vid > div {
+    
+    margin: auto;
+    
+    font-size: 30px;
+    height: 50vh;
+    width: 50%;
+   color: aliceblue;
+    text-align: right;
+    
+
+   
+  }
+  .txtt{
+    padding-top: 100px;
+    
+  }
+  .vid>h1{
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 10px;
+    
+   
+         
+  }
+  .vid>h4{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+      
+
+  #fifthPage{
+    height: 60vh;
+    width: 100%;
+      
+    display: flex;
+    background-color:rgb(0, 0, 0);
+border-top: 5px solid rgba(255, 255, 255, 0.445);
+
+  }
+
+
+  .kids{
+    display: flex;
+    
+    
+         height: 50vh;
+         width: 100%;
+         
+         
+         
+  }
+  .kids>div>img{
+   
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    width: 80%;
+    
+  }
+  
+  .kids > div {
+    
+    margin: auto;
+    
+    font-size: 30px;
+    height: 50vh;
+    width: 50%;
+   color: aliceblue;
+    text-align: left;
+    
+
+   
+  }
+  .txt{
+    padding-top: 100px;
+    
+  }
+  .kids>h1{
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 10px;
+    
+   
+         
+  }
+  .kids>h4{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 10px;
+  
+  }
+ 
+
+      
+
+  #sixthPage{
+    height: 110vh;
+    width: 100%;
+      
+    display: flex;
+    background-color:rgb(0, 0, 0);
+border-top: 5px solid rgba(255, 255, 255, 0.445);
+    
+
+  }
+
+  
+      
+  #seventhPage{
+    height: 60vh;
+    width: 100%;
+    background-color: black;
+border-top: 5px solid rgba(255, 255, 255, 0.445);
+
+    
+   }
+   #seventhPage>article{
+      
+       justify-content: center;
+       align-items: center;
+       display: flex;
+       
+
+   }
+   #seventhPage>article>.a{
+      
+       width: 20%;
+   display: flex;
+}
+   
+   
+   
+   #seventhPage>article>.z{
+       /* background-color: rgb(255, 251, 0); */
+       width:30%;
+       padding-left: 100px;
+   }
+#seventhPage>article>.a>#com,#commu,#links{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    
+    list-style-type: none;
+   margin-top:100px ;
+   line-height: 2.5em;
+   font-size: 13px;
+
+
+}
+#seventhPage>article>.a>#com>.hovr:hover{
+  color:red;
+  }
+  #seventhPage>article>.a>#commu>.hovr:hover{
+    color:red;
+     }
+
+#seventhPage>article>.a>#links>.hovr:hover{
+color:red;
+}
+
+
+
+
+
+
